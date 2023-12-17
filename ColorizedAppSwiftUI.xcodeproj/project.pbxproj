@@ -11,6 +11,7 @@
 		2D244BD02B2D1EE90017F18D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D244BCF2B2D1EE90017F18D /* ContentView.swift */; };
 		2D244BD22B2D1EEA0017F18D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D244BD12B2D1EEA0017F18D /* Assets.xcassets */; };
 		2D244BD52B2D1EEA0017F18D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D244BD42B2D1EEA0017F18D /* Preview Assets.xcassets */; };
+		2D244BDC2B2D20810017F18D /* ColorSliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D244BDB2B2D20810017F18D /* ColorSliderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2D244BCF2B2D1EE90017F18D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2D244BD12B2D1EEA0017F18D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D244BD42B2D1EEA0017F18D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2D244BDB2B2D20810017F18D /* ColorSliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				2D244BCD2B2D1EE90017F18D /* ColorizedAppSwiftUIApp.swift */,
 				2D244BCF2B2D1EE90017F18D /* ContentView.swift */,
+				2D244BDB2B2D20810017F18D /* ColorSliderView.swift */,
 				2D244BD12B2D1EEA0017F18D /* Assets.xcassets */,
 				2D244BD32B2D1EEA0017F18D /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				2D244BD02B2D1EE90017F18D /* ContentView.swift in Sources */,
 				2D244BCE2B2D1EE90017F18D /* ColorizedAppSwiftUIApp.swift in Sources */,
+				2D244BDC2B2D20810017F18D /* ColorSliderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
